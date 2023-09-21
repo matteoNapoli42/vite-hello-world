@@ -1,0 +1,19 @@
+{
+  "name": "vite-hello-world",
+  "version": "1.0.0",
+  "description": "First project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteoNapoli42/vite-hello-world.git"
+  },
+  "author": "matteoNapoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matteoNapoli42/vite-hello-world/issues"
+  },
+  "homepage": "https://github.com/matteoNapoli42/vite-hello-world#readme"
+}
