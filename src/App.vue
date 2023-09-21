@@ -1,6 +1,7 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import MyFirstViteApp from './components/AppTitle.vue'
+import MyJumbotron from './components/AppHero.vue'
 </script>
 
 <template>
@@ -15,6 +16,7 @@ import MyFirstViteApp from './components/AppTitle.vue'
   <HelloWorld msg="Vite + Vue" />
   <h1>hello Vite</h1>
   <MyFirstViteApp />
+  <MyJumbotron />
 </template>
 
 <style scoped>
